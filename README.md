@@ -16,7 +16,6 @@ To install, download the archive, unzip, and place the folder "FUSAILModdedRaceS
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729460487 Futurama Ship [Human]
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729460775 Futurama Ship [Hylotl]
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729461054 Futurama Ship [Novakid]
-- https://steamcommunity.com/sharedfiles/filedetails/?id=729480149 FrackinUniverse
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729496363 Futurama Ship [Avian]
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729558042 Avali
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729622432 Playable Fenerox!
