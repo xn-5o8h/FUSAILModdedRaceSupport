@@ -1,11 +1,15 @@
 # FUSAILModdedRaceSupport
-A bunch of patches to make sure modded species get FU's S.A.I.L. interface. It is made of way too many patches for all the techstations, an includes array of all the patched mods, and a priority 2 just in case.
+A bunch of patches to make sure modded species get FRackin Universe's S.A.I.L. interface.
+If you're using a modded specie with FU and get a FAILSAFE interface when interacting with S.A.I.L., you need this.
 
-Will try to have it updated with the workshop at least weekly, but feel free to request a mod by commenting on the Steam page, posting an issue here or whatever. If possible, I'd prefer if you could post a link to the steam workshop.
+It is made of way too many patches for all the techstations, an includes array of all the patched mods, and a priority 2 just in case.
 
-Currently in test phase, no steam workshop / chucklefish forum download links for now.
+Will try to have it updated with the workshop at least weekly, but feel free to request a mod by commenting on the Steam page, posting an issue on the github or whatever. If possible, I'd prefer if you could post a link to the steam workshop.
 
-To install, download the archive, unzip, and place the folder "FUSAILModdedRaceSupport" you find inside into /Starbound/mods. (This is to avoid having useless git files in the steam / cf uploads.)
+
+Chucklefish Community: https://community.playstarbound.com/resources/fu-s-a-i-l-modded-race-support.5374/
+Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1411331676
+Github: https://github.com/xn-5o8h/FUSAILModdedRaceSupport
 
 
 # Patched mods:
