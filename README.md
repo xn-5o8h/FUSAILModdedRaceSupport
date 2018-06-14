@@ -7,9 +7,9 @@ It is made of way too many patches for all the techstations, an includes array o
 Will try to have it updated with the workshop at least weekly, but feel free to request a mod by commenting on the Steam page, posting an issue on the github or whatever. If possible, I'd prefer if you could post a link to the steam workshop.
 
 
-Chucklefish Community: https://community.playstarbound.com/resources/fu-s-a-i-l-modded-race-support.5374/
-Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1411331676
-Github: https://github.com/xn-5o8h/FUSAILModdedRaceSupport
+- Chucklefish Community: https://community.playstarbound.com/resources/fu-s-a-i-l-modded-race-support.5374/
+- Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1411331676
+- Github: https://github.com/xn-5o8h/FUSAILModdedRaceSupport
 
 
 # Patched mods:
