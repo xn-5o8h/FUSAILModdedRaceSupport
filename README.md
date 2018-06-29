@@ -250,3 +250,10 @@ Will try to have it updated with the workshop at least weekly, but feel free to 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1398353807 Uss polearis for Lamia
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1400758007 Minecraft Race v0.10.5
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1401892796 Playable Virorbs
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1405822108 GalaxyFoxes Mod
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1409346345 Shoggoth Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1409769395 Anvil Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1410235437 Darkbound Species
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1413330340 oofabooga
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1420856270 Sergal Race Mod (Fixed 24/06/2018) + Iroaseta Solar Cruiser Ship
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1424584150 Dreamers race
