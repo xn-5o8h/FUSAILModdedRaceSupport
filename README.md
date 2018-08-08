@@ -1,6 +1,6 @@
 # FUSAILModdedRaceSupport
 A bunch of patches to make sure modded species get FRackin Universe's S.A.I.L. interface.
-If you're using a modded specie with FU and get a FAILSAFE interface when interacting with S.A.I.L., you need this.
+If you're using a modded specie with FU (or ztarbound, which FU uses) and get a FAILSAFE interface when interacting with S.A.I.L., you need this.
 
 It is made of way too many patches for all the techstations, an includes array of all the patched mods, and a priority 2 just in case.
 
