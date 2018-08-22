@@ -11,6 +11,7 @@ Will try to have it updated with the workshop at least weekly, but feel free to 
 - Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1411331676
 - Github: https://github.com/xn-5o8h/FUSAILModdedRaceSupport
 
+To install from github, download the .zip file from the green "clone or download", unzip it, and drop the "FUSAILModdedRaceSupport" in your Starbound/mods folder.
 
 # Patched mods:
 - https://steamcommunity.com/sharedfiles/filedetails/?id=729429063 Felins
@@ -257,3 +258,12 @@ Will try to have it updated with the workshop at least weekly, but feel free to 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1413330340 oofabooga
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1420856270 Sergal Race Mod (Fixed 24/06/2018) + Iroaseta Solar Cruiser Ship
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1424584150 Dreamers race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1426017250 Dibarusche
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1431005694 Fridge Kin
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1431005694 Fridge Kin
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1440929861 CentaurRace
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1443458049 Zoroark Race - Updated
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1443458049 Zoroark Race - Updated
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1447177288 Car Kin
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1462200586 Xlmoria Species Mod!
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1485177055 Ori Mod
