@@ -263,7 +263,10 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1431005694 Fridge Kin
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1440929861 CentaurRace
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1443458049 Zoroark Race - Updated
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1443458049 Zoroark Race - Updated
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1447177288 Car Kin
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1462200586 Xlmoria Species Mod!
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1485177055 Ori Mod
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1491370950 Rutikal
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1495411704 Changelings
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1501680435 Karrogan
+- https://community.playstarbound.com/resources/the-moogles-of-ivalice.5177/ projectmooglebound
