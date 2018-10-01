@@ -270,3 +270,8 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1495411704 Changelings
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1501680435 Karrogan
 - https://community.playstarbound.com/resources/the-moogles-of-ivalice.5177/ projectmooglebound
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1520995960 Demon Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1520999536 /sbg/ Race Mod
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1521849240 The Latexians
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1525534259 Asari Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1527072091 Program Race
