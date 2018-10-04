@@ -275,3 +275,4 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1521849240 The Latexians
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1525534259 Asari Race
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1527072091 Program Race
+- https://github.com/SentientCookie/Eld-uukhar Eld'uukhar
