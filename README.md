@@ -260,7 +260,6 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1424584150 Dreamers race
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1426017250 Dibarusche
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1431005694 Fridge Kin
-- https://steamcommunity.com/sharedfiles/filedetails/?id=1431005694 Fridge Kin
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1440929861 CentaurRace
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1443458049 Zoroark Race - Updated
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1447177288 Car Kin
@@ -277,4 +276,5 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1527072091 Program Race
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1507646371 The Wanderers
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1529400671 My little Odigreo
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1529411859 Ethereos Race
 - https://github.com/SentientCookie/Eld-uukhar Eld'uukhar
