@@ -277,4 +277,7 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1507646371 The Wanderers
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1529400671 My little Odigreo
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1529411859 Ethereos Race
+è https://steamcommunity.com/sharedfiles/filedetails/?id=1610651987 The Alrune Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1659133154 Oof Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1661158394 The Epiphenic Hive
 - https://github.com/SentientCookie/Eld-uukhar Eld'uukhar
