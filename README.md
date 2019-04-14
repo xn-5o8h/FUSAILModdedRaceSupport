@@ -307,3 +307,7 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1686520464
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1694719307
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1701822863
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1709257267 N-pack 
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1709944753 KANASHIMI
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1705087074 The Carakinox Race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1613774054 Omen Race Mod
