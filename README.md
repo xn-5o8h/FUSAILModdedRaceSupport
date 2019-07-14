@@ -311,3 +311,10 @@ To install from github, download the .zip file from the green "clone or download
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1709944753 KANASHIMI
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1705087074 The Carakinox Race
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1613774054 Omen Race Mod
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1755805853 lepidoptian
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1761489880 gnob
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1766383412 nightmares
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1771474265 kobold
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1789115955 protogen race
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1790499891 shizubelle
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1800401078 lycanroc race
